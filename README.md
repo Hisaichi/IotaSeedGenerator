@@ -4,22 +4,11 @@ If you find my work usefull, please feel free to make a small contribution :)
 
 IOTA address :
 
-<img src="QR Code - receive IOTA.png" height=160 width=160>
-KIADFH9OYYJSQNOUQOBNGPMCBCMTEQTPZWJK9GNGISGWLMFFDTRBKETNVX9MUPLPFCFIFCMZLTEPQJGOXBROAAWUQ9
+<img src="QR Code - receive IOTA.png" height=160 width=160>KIADFH9OYYJSQNOUQOBNGPMCBCMTEQTPZWJK9GNGISGWLMFFDTRBKETNVX9MUPLPFCFIFCMZLTEPQJGOXBROAAWUQ9
 
 Bitcoin address :
-
-
-
 <div>
   <a href="bitcoin:1LGPQvksRd3Sy6HcGJSr54oLcXCw6bnqbH?amount=0.5&label=Agile%20Stack">
   <img src="QR Code - receive BITCOINS.png" height=160 width=160></a>
   <p>1LGPQvksRd3Sy6HcGJSr54oLcXCw6bnqbH</p>
 </div>
-
-
-
-
-
-
-
